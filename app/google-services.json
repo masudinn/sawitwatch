@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "62789177925",
+    "project_id": "bpdpks-24d9f",
+    "storage_bucket": "bpdpks-24d9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62789177925:android:2377a475adab9a8e52892c",
+        "android_client_info": {
+          "package_name": "com.projek.bpdpks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN7zhVvbvSkwda0PMK_Msamle4MWhJe1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
